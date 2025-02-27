@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+ 
+    
+
+ --cor-principal: #C267B1;
+    --cor1:#c267b1;
+    --cor2:#6f6a8b;
+    --cor3:#a39bd1;
+    --cor4:#dad6e9;
+    --preto:#000000;
+    --branco:#FFFFFF;
+}
+
+    body{
+font-size: 1rem;
+font-family: 'Montserrat'; /* o.nome.da.sua.fonte*/
+    }
+    
